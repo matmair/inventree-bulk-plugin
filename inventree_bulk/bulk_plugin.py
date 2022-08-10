@@ -11,7 +11,7 @@ class BulkActionPlugin(SettingsMixin, PanelMixin, InvenTreePlugin):
     VERSION = BULK_PLUGIN_VERSION
 
     NAME = "Bulk Action"
-    SLUG = "bulkaction"
+    SLUG = "bulkaction2"
     TITLE = "Bulk Action"
 
     SETTINGS = {}
